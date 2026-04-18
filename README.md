@@ -70,7 +70,7 @@ SISTEM_MESAJI = "Sen Jarvis'sin, (Kendi Adın)'ın asistanısın..."
 Kendi program klasörünü de ekleyebilirsin:
 ```python
 aranacak_yollar = [
-    r"C:\Users\SenimAdin\AppData\Roaming",  # Örnek
+    r"C:\Users\SeninAdin\AppData\Roaming",  # Örnek
     ...
 ]
 ```
