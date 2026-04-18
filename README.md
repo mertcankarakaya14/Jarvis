@@ -31,7 +31,7 @@ JARVIS, sesli komutlar, sistem kontrolü ve yapay zeka destekli sohbet özellikl
 ### 1. Repoyu Klonla
 
 ```bash
-git clone https://github.com/kullanici_adin/jarvis.git
+git clone https://github.com/mertcankarakaya14/jarvis.git
 cd jarvis
 ```
 
